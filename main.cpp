@@ -1,11 +1,13 @@
 #include<iostram>
 void a() {}
 
+
 void b() {}
 
 
 
 void c() {}
+
 
 int main(void)
 {
