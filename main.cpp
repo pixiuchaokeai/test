@@ -1,6 +1,6 @@
 #include<iostram>
 void a() {}
-
+void b() {}
 
 int main(void)
 {
