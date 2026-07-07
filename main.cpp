@@ -1,4 +1,6 @@
 #include<iostram>
+void a() {}
+
 
 int main(void)
 {
